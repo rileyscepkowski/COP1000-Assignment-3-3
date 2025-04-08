@@ -44,5 +44,5 @@ if validDate == True:
     print(f"{month}/{day}/{year} is a valid date.")
     # Output statement
 else:
-    print(f"{month}/{day}/{year} is not a valid date.")
+    print(f"{month}/{day}/{year} is an invalid date.")
     # Output statement
